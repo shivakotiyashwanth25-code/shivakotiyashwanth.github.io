@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "C:\\Program Files\\Git\\bin": true
+    },
+    "search.exclude": {
+        "C:\\Program Files\\Git\\bin": true
+    }
+}
